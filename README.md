@@ -9,3 +9,6 @@ features.txt: the features used to train the best model created(best.model) the 
 myexamples.txt: sentences models were trained on. 
 
 examples.dat: sentences models were evaluated/tested on. 
+
+
+Read Writeup.pdf for more information :) 
