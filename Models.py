@@ -4,11 +4,8 @@ import pandas as pd
 import random
 import pickle
 """
-Isaac Soares, Lab 3 
-CSCI 331 
+Isaac Soares
 ADA Boost and Decision Tree Implementation 
-
-
 """
 
 
