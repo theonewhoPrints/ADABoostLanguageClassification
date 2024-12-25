@@ -10,5 +10,13 @@ myexamples.txt: sentences models were trained on.
 
 examples.dat: sentences models were evaluated/tested on. 
 
+93.75 % accuracy in detecing languages
 
+Acc: 0.9375 (390/416)
+Score  is adjusted to accuracy range (min:0.5, max:0.9) 
+STDOUT not reported due to length.
+===========Log===========
+Testing with python3.11 /autograder/submission/lab3.py predict /autograder/source/testing/data/test.dat /autograder/submission/features.txt /autograder/submission/best.model
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Read Writeup.pdf for more information :) 
